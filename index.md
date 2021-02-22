@@ -7,7 +7,10 @@
   
   Hi! I am a researcher turned data scientist, currently working at Pactera in the fraud detection and risk data science team. From a previous life I have a Ph.D in chemistry, where I studied crystal morphologies using molecular dynamics simulations. In particular my projects involved trying to understand the bending and twisting modes during early stage of crystal growths.
 
+## Various Projects
 
+* [Predicting User Conversion](https://github.com/cl3080/Predicting-User-Conversion)
+Check out the codes [here](http://htmlpreview.github.io/?https://github.com/cl3080/Predicting-User-Conversion/blob/master/Predict_user_conversion.html)!
 
 ## Publications
 
@@ -19,11 +22,11 @@
   **Chao Li**, Alexander G Shtukenberg, Leslie Vogt-Maranto, Efi Efrati, Paolo Raiteri, Julian D Gale, Andrew L Rohl, Bart Kahr       
   The Journal of Physical Chemistry C, Jun 2020. 
   
-* [Disorderly conduct of benzamide IV: crystallographic and computational analysis of high entropy polymorphs of small molecules](https://pubs.acs.org/doi/abs/10.1021/acs.cgd.0c00096)   
+* [Disorderly Conduct of Benzamide IV: Crystallographic and Computational Analysis of High Entropy Polymorphs of Small Molecules](https://pubs.acs.org/doi/abs/10.1021/acs.cgd.0c00096)   
   Noalle Fellah, Alexander G Shtukenberg, Eric J Chan, Leslie Vogt-Maranto, Wenqian Xu, **Chao Li**, Mark E Tuckerman, Bart Kahr, Michael D Ward   
   Crystal Growth & Design, Mar 2020.
   
-* [Timoshenko bending and Eshelby twisting predicted in molecular nanocrystals](https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.8b08261)   
+* [Timoshenko Bending and Eshelby Twisting Predicted in Molecular Nanocrystals](https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.8b08261)   
   **Chao Li**, Alexander G Shtukenberg, Damien J Carter, Xiaoyan Cui, Isabel Olson, Andrew L Rohl, Julian D Gale, Paolo Raiteri, Bart Kahr  
   The Journal of Physical Chemistry C, Oct 2018. 
 
