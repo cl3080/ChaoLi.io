@@ -19,7 +19,7 @@
   Angewandte Chemie, Aug 2020.
 
 *   [Why Are Some Crystals Straight?](https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.0c04258)  
-  **Chao Li**, Alexander G Shtukenberg, Leslie Vogt-Maranto, Efi Efrati, Paolo Raiteri, Julian D Gale, Andrew L Rohl, Bart Kahr   
+  **Chao Li**, Alexander G Shtukenberg, Leslie Vogt-Maranto, Efi Efrati, Paolo Raiteri, Julian D Gale, Andrew L Rohl, Bart Kahr     
   The Journal of Physical Chemistry C, Jun 2020. 
   
 * [Disorderly conduct of benzamide IV: crystallographic and computational analysis of high entropy polymorphs of small molecules](https://pubs.acs.org/doi/abs/10.1021/acs.cgd.0c00096)   
