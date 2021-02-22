@@ -15,23 +15,23 @@
 ## Publications
 
 * [Crystals of Benzamide, the First Polymorphous Molecular Compound, Are Helicoidal](https://onlinelibrary.wiley.com/doi/abs/10.1002/ange.202005738)   
-  Alexander G Shtukenberg, Ran Drori, Elena V Sturm, Netta Vidavsky, Asaf Haddad, Jason Zheng, Lara A Estroff, Haim Weissman, Sharon G Wolf, Eyal Shimoni, **Chao Li**, Noalle Fellah, Efi Efrati, Bart Kahr 
+  Alexander G Shtukenberg, Ran Drori, Elena V Sturm, Netta Vidavsky, Asaf Haddad, Jason Zheng, Lara A Estroff, Haim Weissman, Sharon G Wolf, Eyal Shimoni, **Chao Li**, Noalle Fellah, Efi Efrati, Bart Kahr  
   Angewandte Chemie, Aug 2020.
 
 *   [Why Are Some Crystals Straight?](https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.0c04258)  
-  **Chao Li**, Alexander G Shtukenberg, Leslie Vogt-Maranto, Efi Efrati, Paolo Raiteri, Julian D Gale, Andrew L Rohl, Bart Kahr  
+  **Chao Li**, Alexander G Shtukenberg, Leslie Vogt-Maranto, Efi Efrati, Paolo Raiteri, Julian D Gale, Andrew L Rohl, Bart Kahr   
   The Journal of Physical Chemistry C, Jun 2020. 
   
 * [Disorderly conduct of benzamide IV: crystallographic and computational analysis of high entropy polymorphs of small molecules](https://pubs.acs.org/doi/abs/10.1021/acs.cgd.0c00096)   
-  Noalle Fellah, Alexander G Shtukenberg, Eric J Chan, Leslie Vogt-Maranto, Wenqian Xu, **Chao Li**, Mark E Tuckerman, Bart Kahr, Michael D Ward
+  Noalle Fellah, Alexander G Shtukenberg, Eric J Chan, Leslie Vogt-Maranto, Wenqian Xu, **Chao Li**, Mark E Tuckerman, Bart Kahr, Michael D Ward 
   Crystal Growth & Design, Mar 2020.
   
 * [Timoshenko bending and Eshelby twisting predicted in molecular nanocrystals](https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.8b08261)   
-  **Chao Li**, Alexander G Shtukenberg, Damien J Carter, Xiaoyan Cui, Isabel Olson, Andrew L Rohl, Julian D Gale, Paolo Raiteri, Bart Kahr
+  **Chao Li**, Alexander G Shtukenberg, Damien J Carter, Xiaoyan Cui, Isabel Olson, Andrew L Rohl, Julian D Gale, Paolo Raiteri, Bart Kahr 
   The Journal of Physical Chemistry C, Oct 2018. 
 
 * [A Supramolecular Ice Growth Inhibitor](https://pubs.acs.org/doi/abs/10.1021/jacs.6b08267)   
-  Ran Drori, **Chao Li**, Chunhua Hu, Paolo Raiteri, Andrew L Rohl, Michael D Ward, Bart Kahr
+  Ran Drori, **Chao Li**, Chunhua Hu, Paolo Raiteri, Andrew L Rohl, Michael D Ward, Bart Kahr 
   Journal of the American Chemical Society, Oct 2016. 
   
 <br>
