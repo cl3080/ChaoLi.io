@@ -5,7 +5,7 @@
   <!-- <img src="doc/info/ChaoLi_CentralPark2020.JPG" width="200" class="align-right" > -->
   <!-- ![image-title-here](doc/info/ChaoLi_CentralPark2020.JPG){: .align-right width="200"} -->
   
-  Hi! I am a researcher turned data scientist, currently working at Pactera in the fraud detection and risk management team. From a previous life I have a Ph.D in chemistry, where I studied crystal morphologies using molecular dynamics simulations. In particular my projects involved trying to understand the bending and twisting mode during early stage of crystal growths.
+  Hi! I am a researcher turned data scientist, currently working at Pactera in the fraud detection and risk data science team. From a previous life I have a Ph.D in chemistry, where I studied crystal morphologies using molecular dynamics simulations. In particular my projects involved trying to understand the bending and twisting modes during early stage of crystal growths.
 
 
 
