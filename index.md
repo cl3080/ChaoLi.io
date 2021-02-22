@@ -9,7 +9,7 @@
 
 ## Various Projects
 
-* [Predicting User Conversion](https://github.com/cl3080/Predicting-User-Conversion)
+* [Predicting User Conversion](https://github.com/cl3080/Predicting-User-Conversion)    
 Check out the codes [here](http://htmlpreview.github.io/?https://github.com/cl3080/Predicting-User-Conversion/blob/master/Predict_user_conversion.html)!
 
 ## Publications
