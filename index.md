@@ -12,6 +12,9 @@ Hi! I am a researcher turned data scientist, currently working at Pactera in the
 * [Predicting User Conversion](https://github.com/cl3080/Predicting-User-Conversion)    
 Check out the codes [here](http://htmlpreview.github.io/?https://github.com/cl3080/Predicting-User-Conversion/blob/master/Predict_user_conversion.html)!
 
+* [An AI Agent for Auto-tagging Books](https://cl3080.github.io/ChaoLi.io/)    
+Check out the codes [here](https://github.com/cl3080/Auto-tagging-Books-Using-BERT)!
+
 ## Data Science Online Classes Documents
 I am self-taught and always enjoy learning new skills. Here are some repos I summarized for classes I took on online.  
 * [Nature Language Processing Specilization](https://github.com/cl3080/Natural_Language_Processing_Specialization) by DeepLearning.AI
@@ -19,6 +22,10 @@ I am self-taught and always enjoy learning new skills. Here are some repos I sum
 
 ## Publications
 
+* [Eshelby untwisting](https://pubs.rsc.org/en/content/articlelanding/2021/CC/D1CC01431E#!divAbstract)   
+  Xiaodi Zhong, Hengyu Zhou, **Chao Li**, Alexander G Shtukenberg, Michael D Mike, Bart Kahr  
+  Chemistry Communication, Apr 2021.
+  
 * [Crystals of Benzamide, the First Polymorphous Molecular Compound, Are Helicoidal](https://onlinelibrary.wiley.com/doi/abs/10.1002/ange.202005738)   
   Alexander G Shtukenberg, Ran Drori, Elena V Sturm, Netta Vidavsky, Asaf Haddad, Jason Zheng, Lara A Estroff, Haim Weissman, Sharon G Wolf, Eyal Shimoni, **Chao Li**, Noalle Fellah, Efi Efrati, Bart Kahr  
   Angewandte Chemie, Aug 2020.
@@ -57,7 +64,5 @@ After Ph.D, I decided to switch my career to data science/machine learning and j
 * Outstanding Graduates Awards (By Shanghai City Ministry of Education)  
 
 <br>
-
-## Contact Information
 
 <!-- email: chaoli930712 at gmail.com -->
